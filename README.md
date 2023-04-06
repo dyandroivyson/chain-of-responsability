@@ -17,4 +17,4 @@ Em nosso algoritmo, dividimos o problema na pasta *original* e a solução na pa
 Alteramos o arquivo index removendo todos os *if* alinhados e em seu lugar instanciamos um *Middleware* indicando a primeira verificação a ser realizada e após as demais, cada qual separada facilitando assim a leitura e manutenção do código posteriormente.
 
 ## Fonte
-- <a href="https://refactoring.guru/design-patterns/strategy" target="_blank">Refactoring Guru</a>
+- <a href="https://refactoring.guru/design-patterns/chain-of-responsibility" target="_blank">Refactoring Guru</a>
